@@ -12,7 +12,7 @@ The work is grouped into four priorities, ordered by exam weight and real-world 
 
 ### Priority 1 — Conditional Access & Identity Governance foundations
 
-- [ ] Create a Conditional Access policy (require MFA for a group)
+- [x] Create a Conditional Access policy (require MFA for a group) — [write-up](priority-1/01-conditional-access-mfa-for-a-group.md)
 - [ ] Create a CA policy with named locations (block by country)
 - [ ] Use the What-If tool to test a CA policy
 - [ ] Configure CA session controls (sign-in frequency)
