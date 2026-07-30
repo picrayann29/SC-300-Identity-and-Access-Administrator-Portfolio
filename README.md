@@ -14,7 +14,7 @@ The work is grouped into four priorities, ordered by exam weight and real-world 
 
 - [x] Create a Conditional Access policy (require MFA for a group) — [write-up](priority-1/01-conditional-access-mfa-for-a-group.md)
 - [x] Create a CA policy with named locations (block by country) — [write-up](priority-1/02-conditional-access-named-locations-block-country.md)
-- [ ] Use the What-If tool to test a CA policy
+- [x] Use the What-If tool to test a CA policy — [write-up](priority-1/03-conditional-access-whatif-tool-validation.md)
 - [ ] Configure CA session controls (sign-in frequency)
 - [ ] Enable and configure PIM for a directory role
 - [ ] Make a user eligible for a role, test activation
