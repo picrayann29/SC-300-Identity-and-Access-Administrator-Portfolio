@@ -16,7 +16,7 @@ The work is grouped into four priorities, ordered by exam weight and real-world 
 - [x] Create a CA policy with named locations (block by country) — [write-up](priority-1/02-conditional-access-named-locations-block-country.md)
 - [x] Use the What-If tool to test a CA policy — [write-up](priority-1/03-conditional-access-whatif-tool-validation.md)
 - [x] Configure CA session controls (sign-in frequency) — [write-up](priority-1/04-conditional-access-session-controls-signin-frequency.md)
-- [ ] Enable and configure PIM for a directory role
+- [x] Enable and configure PIM for a directory role — [write-up](priority-1/05-privileged-identity-management-directory-role.md)
 - [ ] Make a user eligible for a role, test activation
 - [ ] Create an Access Review on a group
 - [ ] Create an Access Package with a policy
