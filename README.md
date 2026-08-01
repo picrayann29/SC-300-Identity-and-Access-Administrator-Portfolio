@@ -19,7 +19,7 @@ The work is grouped into four priorities, ordered by exam weight and real-world 
 - [x] Enable and configure PIM for a directory role — [write-up](priority-1/05-privileged-identity-management-directory-role.md)
 - [x] Make a user eligible for a role, test activation — [write-up](priority-1/06-pim-eligibility-assignment-and-activation.md)
 - [x] Create an Access Review on a group — [write-up](priority-1/07-access-review-on-a-group.md)
-- [ ] Create an Access Package with a policy
+- [x] Create an Access Package with a policy — [write-up](priority-1/08-access-package-with-a-policy.md)
 
 ### Priority 2 — Application access management
 
